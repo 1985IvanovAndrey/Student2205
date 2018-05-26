@@ -9,6 +9,7 @@ INSERT INTO public.student (name, ser_name, phone, email) VALUES ('don', 'abramo
 INSERT INTO public.student (name, ser_name, phone, email) VALUES ('dina', 'ivanova', '+380903456789', 'dina@mail.ru');
 INSERT INTO public.student (name, ser_name, phone, email) VALUES ('den', 'ketch', '+380933456783', 'den@gmail.com');
 INSERT INTO public.student (name, ser_name, phone, email) VALUES ('lila', 'karlova', '0000', 'lila@mail.ru');
+INSERT INTO student(name, ser_name, phone, email) VALUES ('alina0', 'kurt0', '+38050230', 'all@gmaill.com0');
 INSERT INTO student(name, ser_name, phone, email) VALUES ('alina1', 'kurt1', '+38050231', 'all@gmaill.com1');
 INSERT INTO student(name, ser_name, phone, email) VALUES ('alina2', 'kurt2', '+38050232', 'all@gmaill.com2');
 INSERT INTO student(name, ser_name, phone, email) VALUES ('alina3', 'kurt3', '+38050233', 'all@gmaill.com3');
@@ -38,4 +39,3 @@ INSERT INTO student(name, ser_name, phone, email) VALUES ('alina26', 'kurt26', '
 INSERT INTO student(name, ser_name, phone, email) VALUES ('alina27', 'kurt27', '+380502327', 'all@gmaill.com27');
 INSERT INTO student(name, ser_name, phone, email) VALUES ('alina28', 'kurt28', '+380502328', 'all@gmaill.com28');
 INSERT INTO student(name, ser_name, phone, email) VALUES ('alina29', 'kurt29', '+380502329', 'all@gmaill.com29');
-INSERT INTO student(name, ser_name, phone, email) VALUES ('alina30', 'kurt30', '+380502330', 'all@gmaill.com30');
